@@ -4,11 +4,12 @@ this repo contain a lot of command you probbly need them in CTF Or Koth
 ## List
 
 - [SQL 1njection](./src/sql1.md)
-- [LFI & RFI](LfiAndRfi.md)
+- [LFI & RFI](./src/LfiAndRfi.md)
 - [Linux Useful Commands](./src/linuxUsefulCommand.md)
 - [Spawn Shell](./src/TtySpawnShell.md)
 - [Magic Numbers](./src/MagicNumbers.md)
 - [Magic Hashes](./src/MagicHashes.md)
+- [King ?](./src/King.md)
 
 ## Great Resources
 [CyberChef](https://gchq.github.io/CyberChef/)
