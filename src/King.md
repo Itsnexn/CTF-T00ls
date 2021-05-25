@@ -3,14 +3,15 @@
 ## king.txt
 **Simple 1 line command:**
 ```bash
-bash -c "while true; do echo 'name'> king.txt; chatter +ia 'king.txt'; sleep 1; done"
+bash -c "while true; do echo 'username'> king.txt; chatter +ia 'king.txt'; sleep 1; done"
 ```
 
 **Bash script:**
 ```bash
 #!/bin/bash
 while true; do
-    echo -e "nexn" > /root/king.txt
+    chattr -ai "king.txt"
+    echo -e "username" > /root/king.txt
     chattr +ia "king.txt"
 done
 ```
