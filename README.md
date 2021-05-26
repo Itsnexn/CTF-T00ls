@@ -14,7 +14,7 @@ this repo contain a lot of command you probbly need them in CTF Or Koth
 ## Great Resources
 [CyberChef](https://gchq.github.io/CyberChef/)
 
-[Exploit DB])(https://www.exploit-db.com/search)
+[Exploit DB](https://www.exploit-db.com/search)
 
 [Magic Hashes](https://github.com/spaze/hashes)
 
